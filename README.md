@@ -18,4 +18,4 @@ Repositório contém desafio de projeto do Bootcamp da GFT Quality Assurance par
 
 ###### :pushpin: [Casos de teste STEP-BY-STEP] ######
 
-###### :pushpin: [Casos de teste BDD] ######
+###### :pushpin: [Casos de teste BDD](https://github.com/julianamsousa/myProjectQA/blob/main/Arquivos/Casos%20de%20Teste%20BDD.pdf) ######
