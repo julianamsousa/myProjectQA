@@ -2,12 +2,6 @@
 
 Repositório contém desafio de projeto do Bootcamp da GFT Quality Assurance para mulheres.
 
-##### :pushpin: Escrevendo User Story #####
-
-##### :pushpin: Planning #####
-
-##### :pushpin: Documentação de teste: mind map, casos e cenários de teste #####
-
 ###### :pushpin: [Plano de fluxo de trabalho](https://github.com/julianamsousa/myProjectQA/blob/main/Arquivos/Plano%20de%20Fluxo%20de%20Trabalho.pdf) ###### 
 
 ###### :pushpin: [User Store SLT 11](https://github.com/julianamsousa/myProjectQA/blob/main/Arquivos/User%20Store%20-%20SLT-11.pdf) ###### 
